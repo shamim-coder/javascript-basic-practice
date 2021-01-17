@@ -52,7 +52,7 @@ if (gender == "Male") {
     if (age >=18 && age < 65) {
         console.log("you are a " +gender+ " tomar biyer boyos hoye geche");
     } else if (age >=65) {
-        console.log("sorry! tomar date expaired hoye geche");
+        console.log("tomar date expaired hoye geche");
     } else {
         console.log("sorry! tumi ekhono kochi khukhi");
     }
