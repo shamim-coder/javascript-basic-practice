@@ -77,3 +77,9 @@ do {
         j++;
     } while (true)
 } while(true) */
+
+
+var number = [1,2,3,4,5];
+console.log(number);
+var result = number.slice(1,2);
+console.log(result);
